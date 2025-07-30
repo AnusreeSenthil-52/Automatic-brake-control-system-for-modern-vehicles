@@ -1,0 +1,12 @@
+*.hex
+*.elf
+*.bin
+*.eep
+*.d
+*.o
+*.out
+*.obj
+*.log
+*.tmp
+.DS_Store
+__MACOSX/
