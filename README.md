@@ -19,7 +19,7 @@
 
 ## 🧾 Files Included
 - `Arduinocode.ino` – Arduino code
-- `Matlsbcode.m` – MATLAB code to filter and plot distance/speed
+- `Matlabcode.m` – MATLAB code to filter and plot distance/speed
 - `Snapshots of project` – Images of hardware and output plots
 
 ## Skills gained
